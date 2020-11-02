@@ -9,6 +9,8 @@ verify_ssl = true
 sklearn = "*"
 scikit-learn = "*"
 pandas = "*"
+jupyter = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.7"
